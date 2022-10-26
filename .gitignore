@@ -131,3 +131,4 @@ dmypy.json
 **/logs_*/*
 browsermob-proxy-2.1.4/
 allure*/
+*.json
